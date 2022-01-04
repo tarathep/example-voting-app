@@ -21,7 +21,6 @@ spec:
     spec:
       containers:
         - name: result-app
-          image: kodekloud/examplevotingapp_result:v1
+          image: kietara/voting-app_result:v1
           ports:
             - containerPort: 80
-    

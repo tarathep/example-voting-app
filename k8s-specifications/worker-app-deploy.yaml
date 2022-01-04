@@ -21,5 +21,4 @@ spec:
     spec:
       containers:
         - name: worker-app
-          image: kodekloud/examplevotingapp_worker:v1
-    
+          image: kietara/voting-app_worker:v1
